@@ -4,6 +4,7 @@ public class Registration {
         System.out.println("test12== name");
         System.out.println("Krissstina");
         System.out.println("Gozdanoa");
+        System.out.println("something");
     }
 }
 
